@@ -1,0 +1,1 @@
+//# sourceMappingURL=adapter.module.js.map

@@ -1,0 +1,3 @@
+interface GetUserQuery {
+    execute(): void;
+}
